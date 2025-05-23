@@ -14,9 +14,10 @@
 [JDBC8c - InsertEmployee4](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8c-InsertEmployee/Emp8c4.png)<br>
 [JDBC8c - InsertEmployee5](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8c-InsertEmployee/Emp8c5.png)<br>
 
-[JDBC8d - UpdateEmployee1]((https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8d-UpdateEmployee/Emp8d1.png)<br>
-[JDBC8d - UpdateEmployee2]((https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8d-UpdateEmployee/Emp8d2.png)<br>
-[JDBC8d - UpdateEmployee3]((https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8d-UpdateEmployee/Emp8d3.png)<br>
+[JDBC8d - UpdateEmployee1](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8d-UpdateEmployee/Emp8d1.png)<br>
+[JDBC8d - UpdateEmployee2](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8d-UpdateEmployee/Emp8d2.png)<br>
+[JDBC8d - UpdateEmployee3](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8d-UpdateEmployee/Emp8d3.png)<br>
+[JDBC8d - UpdateEmployee4](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8d-UpdateEmployee/Emp8d4.png)<br>
 
 [JDBC9a - DeleteCoffee]()  
 [JDBC9b - CoffeeQuery]()  
