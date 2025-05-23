@@ -19,7 +19,11 @@
 [JDBC8d - UpdateEmployee3](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8d-UpdateEmployee/Emp8d3.png)<br>
 [JDBC8d - UpdateEmployee4](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8d-UpdateEmployee/Emp8d4.png)<br>
 
-[JDBC9a - DeleteCoffee]()  
+[JDBC9a - DeleteCoffee1](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9a-DeleteCoffee/coffee9a1.png)<br>
+[JDBC9a - DeleteCoffee2](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9a-DeleteCoffee/coffee9a2.png)<br>
+[JDBC9a - DeleteCoffee3](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9a-DeleteCoffee/coffee9a3.png)<br>
+[JDBC9a - DeleteCoffee4](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9a-DeleteCoffee/coffee9a4.png)<br>
+
 [JDBC9b - CoffeeQuery]()  
 [JDBC9c - AppendEmployee]()  
 [JDBC9d - DeleteEmployee]()  
