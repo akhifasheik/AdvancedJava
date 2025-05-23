@@ -85,7 +85,8 @@
 [String2a - StringOperations1](https://github.com/akhifasheik/AdvancedJava/blob/main/String2a-StringOperations/stringdemo1.png)<br>
 [String2a - StringOperations2](https://github.com/akhifasheik/AdvancedJava/blob/main/String2a-StringOperations/stringdemo2.png)<br>
 
-[String2b - PerformanceTest]()  
+[String2b - PerformanceTest](https://github.com/akhifasheik/AdvancedJava/blob/main/String2b-PerformanceTest/performanceTest.png)<br>
+
 [String3b - ExercisePgms]()  
 [String3c - ExercisePgms Alt]()  
 
