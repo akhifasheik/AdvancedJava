@@ -1,13 +1,7 @@
 <%-- 
-    7b. Construct a Cookie Management program using JSP to get the fields: 
-    - Name
-    - Domain
-    - Max Expiry Age (in seconds)
-
-    Functionality:
-    - On clicking the "Add Cookie" button, it should display the set cookie information.
-    - Then, it should redirect to a page showing the active cookie list when the user clicks 
-      the link "Go to the active cookie list".
+ 7a. Build a Session Management using JSP program set with one minute session expiry time to get
+your name through text box and press submit to display the message by greeting Hello your name!.
+Check the expiry of the session after one minute.
 --%>
 
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
