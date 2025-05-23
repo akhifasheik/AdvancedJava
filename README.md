@@ -3,10 +3,17 @@
 **JDBC Programs**  
 [JDBC8a - CoffeeRead1](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8a-CoffeeRead/coffee8a1.png)<br>
 [JDBC8a - CoffeeRead2](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8a-CoffeeRead/coffee8a2.png)<br>
+
 [JDBC8b - CoffeeUpdate1](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8b-CoffeeUpdate/coffee8b1.png)<br> 
 [JDBC8b - CoffeeUpdate2](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8b-CoffeeUpdate/coffee8b2.png)<br>
 [JDBC8b - CoffeeUpdate3](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8b-CoffeeUpdate/coffee8b3.png)<br>
-[JDBC8c - InsertEmployee]()  
+
+[JDBC8c - InsertEmployee1](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8c-InsertEmployee/Emp8c1.png)<br>
+[JDBC8c - InsertEmployee2](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8c-InsertEmployee/Emp8c2.png)<br>
+[JDBC8c - InsertEmployee3](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8c-InsertEmployee/Emp8c3.png)<br>
+[JDBC8c - InsertEmployee4](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8c-InsertEmployee/Emp8c4.png)<br>
+[JDBC8c - InsertEmployee5](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8c-InsertEmployee/Emp8c5.png)<br>
+
 [JDBC8d - UpdateEmployee]()  
 [JDBC9a - DeleteCoffee]()  
 [JDBC9b - CoffeeQuery]()  
