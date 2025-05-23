@@ -75,7 +75,10 @@
 [Servlet6b - Cookie1](https://github.com/akhifasheik/AdvancedJava/blob/main/Servlet6b-cookie/cookieservlet1.png)<br>
 [Servlet6b - Cookie2](https://github.com/akhifasheik/AdvancedJava/blob/main/Servlet6b-cookie/cookieservlet2.png)<br>
 
-[Servlet6c - Prime]()  
+[Servlet6c - Prime1](https://github.com/akhifasheik/AdvancedJava/blob/main/Servlet6c-prime/prime1.png)<br>
+[Servlet6c - Prime2](https://github.com/akhifasheik/AdvancedJava/blob/main/Servlet6c-prime/prime2.png)<br>
+[Servlet6c - Prime3](https://github.com/akhifasheik/AdvancedJava/blob/main/Servlet6c-prime/prime3.png)<br>
+[Servlet6c - Prime4](https://github.com/akhifasheik/AdvancedJava/blob/main/Servlet6c-prime/prime4.png)<br>
 
 **String Programs**  
 [String2a - StringOperations]()  
