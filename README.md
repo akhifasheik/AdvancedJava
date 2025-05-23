@@ -68,8 +68,10 @@
 [ListInterface1c - LinkedList-swap](https://github.com/akhifasheik/AdvancedJava/blob/main/ListInterface1c-LinkedList/swap.png)<br>
 
 **Servlet Programs**  
+ 
+[Servlet6a - Factorial1](https://github.com/akhifasheik/AdvancedJava/blob/main/Servlet6a-factorial/factorial1.png)<br>
+[Servlet6a - Factorial2](https://github.com/akhifasheik/AdvancedJava/blob/main/Servlet6a-factorial/factorial2.png)<br>
 
-[Servlet6a - Factorial]()  
 [Servlet6b - Cookie]()  
 [Servlet6c - Prime]()  
 
