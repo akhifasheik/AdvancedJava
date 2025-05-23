@@ -28,7 +28,11 @@
 [JDBC9b - CoffeeQuery2](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9b-CoffeeQuery/coffee9b2.png)<br> 
 [JDBC9b - CoffeeQuery3](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9b-CoffeeQuery/coffee9b3.png)<br> 
 
-[JDBC9c - AppendEmployee]()  
+[JDBC9c - AppendEmployee1](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9c-AppendEmployee/emp9c1.png)<br>
+[JDBC9c - AppendEmployee2](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9c-AppendEmployee/emp9c2.png)<br>
+[JDBC9c - AppendEmployee3](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9c-AppendEmployee/emp9c3.png)<br>
+[JDBC9c - AppendEmployee4](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9c-AppendEmployee/emp9c4.png)<br>
+
 [JDBC9d - DeleteEmployee]()  
 
 **JSP Programs**  
