@@ -110,7 +110,9 @@
 
 [Swing5a - JListExample1]( https://github.com/akhifasheik/AdvancedJava/blob/main/Swing5a-JListExample/jlist1.png)<br>
 [Swing5a - JListExample2]( https://github.com/akhifasheik/AdvancedJava/blob/main/Swing5a-JListExample/jlist2.png)<br>
-
-[Swing5b - TabbedPane1]()  
+ 
+[Swing5b - TabbedPane11]( https://github.com/akhifasheik/AdvancedJava/blob/main/Swing5b-Tabbedpane1/tabbedpane1.1.png)<br>
+[Swing5b - TabbedPane12]( https://github.com/akhifasheik/AdvancedJava/blob/main/Swing5b-Tabbedpane1/tabbedpane1.2.png)<br>
+[Swing5b - TabbedPane13]( https://github.com/akhifasheik/AdvancedJava/blob/main/Swing5b-Tabbedpane1/tabbedpane1.3.png)<br>
 
 [Swing5d - TabbedPane2]()  
