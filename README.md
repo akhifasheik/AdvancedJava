@@ -56,7 +56,12 @@
 **List Interface Programs**  
 [ListInterface1a - ListDemo](https://github.com/akhifasheik/AdvancedJava/blob/main/ListInterface1a-ListDemo/listinterface.png)<br>
 
-[ListInterface1b - ArrayList]()  
+[ListInterface1b - ArrayList-remove](https://github.com/akhifasheik/AdvancedJava/blob/main/ListInterface1b-ArrayList/remove.png)<br>
+[ListInterface1b - ArrayList-removenth](https://github.com/akhifasheik/AdvancedJava/blob/main/ListInterface1b-ArrayList/removenth.png)<br>
+[ListInterface1b - ArrayList-search](https://github.com/akhifasheik/AdvancedJava/blob/main/ListInterface1b-ArrayList/search.png)<br>
+[ListInterface1b - ArrayList-sort](https://github.com/akhifasheik/AdvancedJava/blob/main/ListInterface1b-ArrayList/sort.png)<br>
+[ListInterface1b - ArrayList-sublist](https://github.com/akhifasheik/AdvancedJava/blob/main/ListInterface1b-ArrayList/sublist.png)<br>
+
 [ListInterface1c - LinkedList]()  
 
 **Servlet Programs**  
