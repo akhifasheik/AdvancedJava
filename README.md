@@ -87,7 +87,12 @@
 
 [String2b - PerformanceTest](https://github.com/akhifasheik/AdvancedJava/blob/main/String2b-PerformanceTest/performanceTest.png)<br>
 
-[String3b - ExercisePgms]()  
+[String3b - ExercisePgms-countOccurrences](https://github.com/akhifasheik/AdvancedJava/blob/main/String3b-ExercisePgms/countOccurrences.png)<br>
+[String3b - ExercisePgms-isNull](https://github.com/akhifasheik/AdvancedJava/blob/main/String3b-ExercisePgms/isNull.png)<br>
+[String3b - ExercisePgms-palindrome](https://github.com/akhifasheik/AdvancedJava/blob/main/String3b-ExercisePgms/palindrome.png)<br>
+[String3b - ExercisePgms-removeWhitespace](https://github.com/akhifasheik/AdvancedJava/blob/main/String3b-ExercisePgms/removeWhitespace.png)<br>
+[String3b - ExercisePgms-reverse](https://github.com/akhifasheik/AdvancedJava/blob/main/String3b-ExercisePgms/reverse.png)<br>
+
 [String3c - ExercisePgms Alt]()  
 
 **Swing Programs**  
