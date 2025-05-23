@@ -111,8 +111,11 @@
 [Swing5a - JListExample1]( https://github.com/akhifasheik/AdvancedJava/blob/main/Swing5a-JListExample/jlist1.png)<br>
 [Swing5a - JListExample2]( https://github.com/akhifasheik/AdvancedJava/blob/main/Swing5a-JListExample/jlist2.png)<br>
  
-[Swing5b - TabbedPane11]( https://github.com/akhifasheik/AdvancedJava/blob/main/Swing5b-Tabbedpane1/tabbedpane1.1.png)<br>
-[Swing5b - TabbedPane12]( https://github.com/akhifasheik/AdvancedJava/blob/main/Swing5b-Tabbedpane1/tabbedpane1.2.png)<br>
-[Swing5b - TabbedPane13]( https://github.com/akhifasheik/AdvancedJava/blob/main/Swing5b-Tabbedpane1/tabbedpane1.3.png)<br>
+[Swing5b - TabbedPane11.1]( https://github.com/akhifasheik/AdvancedJava/blob/main/Swing5b-Tabbedpane1/tabbedpane1.1.png)<br>
+[Swing5b - TabbedPane11.2]( https://github.com/akhifasheik/AdvancedJava/blob/main/Swing5b-Tabbedpane1/tabbedpane1.2.png)<br>
+[Swing5b - TabbedPane11.3]( https://github.com/akhifasheik/AdvancedJava/blob/main/Swing5b-Tabbedpane1/tabbedpane1.3.png)<br>
 
-[Swing5d - TabbedPane2]()  
+[Swing5d - TabbedPane2.1]( https://github.com/akhifasheik/AdvancedJava/blob/main/Swing5d-Tabbedpane2/tabbedpane2.1.png)<br>
+[Swing5d - TabbedPane2.2]( https://github.com/akhifasheik/AdvancedJava/blob/main/Swing5d-Tabbedpane2/tabbedpane2.2.png)<br>
+[Swing5d - TabbedPane2.3]( https://github.com/akhifasheik/AdvancedJava/blob/main/Swing5d-Tabbedpane2/tabbedpane2.3.png)<br>
+
