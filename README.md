@@ -93,7 +93,11 @@
 [String3b - ExercisePgms-removeWhitespace](https://github.com/akhifasheik/AdvancedJava/blob/main/String3b-ExercisePgms/removeWhitespace.png)<br>
 [String3b - ExercisePgms-reverse](https://github.com/akhifasheik/AdvancedJava/blob/main/String3b-ExercisePgms/reverse.png)<br>
 
-[String3c - ExercisePgms Alt]()  
+[String3c - ExercisePgms-capitalize](https://github.com/akhifasheik/AdvancedJava/blob/main/String3c-Exercisepgms/capitalize.png)<br>
+[String3c - ExercisePgms-count](https://github.com/akhifasheik/AdvancedJava/blob/main/String3c-Exercisepgms/count.png)<br>
+[String3c - ExercisePgms-isNumeric](https://github.com/akhifasheik/AdvancedJava/blob/main/String3c-Exercisepgms/isNumeric.png)<br>
+[String3c - ExercisePgms-random](https://github.com/akhifasheik/AdvancedJava/blob/main/String3c-Exercisepgms/random.png)<br>
+[String3c - ExercisePgms-truncate](https://github.com/akhifasheik/AdvancedJava/blob/main/String3c-Exercisepgms/truncate.png)<br>
 
 **Swing Programs**  
 [Swing4a - Welcome]()  
