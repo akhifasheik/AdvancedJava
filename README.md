@@ -81,7 +81,10 @@
 [Servlet6c - Prime4](https://github.com/akhifasheik/AdvancedJava/blob/main/Servlet6c-prime/prime4.png)<br>
 
 **String Programs**  
-[String2a - StringOperations]()  
+
+[String2a - StringOperations1](https://github.com/akhifasheik/AdvancedJava/blob/main/String2a-StringOperations/stringdemo1.png)<br>
+[String2a - StringOperations2](https://github.com/akhifasheik/AdvancedJava/blob/main/String2a-StringOperations/stringdemo2.png)<br>
+
 [String2b - PerformanceTest]()  
 [String3b - ExercisePgms]()  
 [String3c - ExercisePgms Alt]()  
