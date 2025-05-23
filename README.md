@@ -1,8 +1,8 @@
 # Advanced Java Program Outputs
 
 **JDBC Programs**  
-[JDBC8a - CoffeeRead1](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8a-CoffeeRead/coffee8a1.png)
-[JDBC8a - CoffeeRead2](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8a-CoffeeRead/coffee8a2.png)
+[JDBC8a - CoffeeRead1](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8a-CoffeeRead/coffee8a1.png)<br>
+[JDBC8a - CoffeeRead2](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC8a-CoffeeRead/coffee8a2.png)<br>
 [JDBC8b - CoffeeUpdate]()  
 [JDBC8c - InsertEmployee]()  
 [JDBC8d - UpdateEmployee]()  
