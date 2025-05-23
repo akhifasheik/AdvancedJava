@@ -33,7 +33,11 @@
 [JDBC9c - AppendEmployee3](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9c-AppendEmployee/emp9c3.png)<br>
 [JDBC9c - AppendEmployee4](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9c-AppendEmployee/emp9c4.png)<br>
 
-[JDBC9d - DeleteEmployee]()  
+[JDBC9d - DeleteEmployee1](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9d-DeleteEmployee/emp9d1.png)<br>
+[JDBC9d - DeleteEmployee2](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9d-DeleteEmployee/emp9d2.png)<br>
+[JDBC9d - DeleteEmployee3](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9d-DeleteEmployee/emp9d3.png)<br>
+[JDBC9d - DeleteEmployee4](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9d-DeleteEmployee/emp9d4.png)<br>
+
 
 **JSP Programs**  
 [JSP7a - Cookie Management]()  
