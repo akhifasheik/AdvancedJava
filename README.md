@@ -39,7 +39,6 @@
 [JDBC9d - DeleteEmployee3](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9d-DeleteEmployee/emp9d3.png)<br>
 [JDBC9d - DeleteEmployee4](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9d-DeleteEmployee/emp9d4.png)<br>
 
-
 **JSP Programs** 
 
 [JSP7a - Cookie Management1](https://github.com/akhifasheik/AdvancedJava/blob/main/JSP7a-cookiemanagement/cookiemngt1.png)<br>
@@ -62,9 +61,14 @@
 [ListInterface1b - ArrayList-sort](https://github.com/akhifasheik/AdvancedJava/blob/main/ListInterface1b-ArrayList/sort.png)<br>
 [ListInterface1b - ArrayList-sublist](https://github.com/akhifasheik/AdvancedJava/blob/main/ListInterface1b-ArrayList/sublist.png)<br>
 
-[ListInterface1c - LinkedList]()  
+[ListInterface1c - LinkedList-getidx](https://github.com/akhifasheik/AdvancedJava/blob/main/ListInterface1c-LinkedList/getidx.png)<br>
+[ListInterface1c - LinkedList-iterate](https://github.com/akhifasheik/AdvancedJava/blob/main/ListInterface1c-LinkedList/iterate.png)<br>
+[ListInterface1c - LinkedList-offerlast](https://github.com/akhifasheik/AdvancedJava/blob/main/ListInterface1c-LinkedList/offerlast.png)<br>
+[ListInterface1c - LinkedList-reverse](https://github.com/akhifasheik/AdvancedJava/blob/main/ListInterface1c-LinkedList/reverse.png)<br>
+[ListInterface1c - LinkedList-swap](https://github.com/akhifasheik/AdvancedJava/blob/main/ListInterface1c-LinkedList/swap.png)<br>
 
 **Servlet Programs**  
+
 [Servlet6a - Factorial]()  
 [Servlet6b - Cookie]()  
 [Servlet6c - Prime]()  
