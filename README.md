@@ -24,7 +24,10 @@
 [JDBC9a - DeleteCoffee3](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9a-DeleteCoffee/coffee9a3.png)<br>
 [JDBC9a - DeleteCoffee4](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9a-DeleteCoffee/coffee9a4.png)<br>
 
-[JDBC9b - CoffeeQuery]()  
+[JDBC9b - CoffeeQuery1](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9b-CoffeeQuery/coffee9b1.png)<br> 
+[JDBC9b - CoffeeQuery2](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9b-CoffeeQuery/coffee9b2.png)<br> 
+[JDBC9b - CoffeeQuery3](https://github.com/akhifasheik/AdvancedJava/blob/main/JDBC9b-CoffeeQuery/coffee9b3.png)<br> 
+
 [JDBC9c - AppendEmployee]()  
 [JDBC9d - DeleteEmployee]()  
 
