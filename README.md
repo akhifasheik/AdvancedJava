@@ -72,7 +72,9 @@
 [Servlet6a - Factorial1](https://github.com/akhifasheik/AdvancedJava/blob/main/Servlet6a-factorial/factorial1.png)<br>
 [Servlet6a - Factorial2](https://github.com/akhifasheik/AdvancedJava/blob/main/Servlet6a-factorial/factorial2.png)<br>
 
-[Servlet6b - Cookie]()  
+[Servlet6b - Cookie1](https://github.com/akhifasheik/AdvancedJava/blob/main/Servlet6b-cookie/cookieservlet1.png)<br>
+[Servlet6b - Cookie2](https://github.com/akhifasheik/AdvancedJava/blob/main/Servlet6b-cookie/cookieservlet2.png)<br>
+
 [Servlet6c - Prime]()  
 
 **String Programs**  
